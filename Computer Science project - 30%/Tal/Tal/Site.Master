@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Tal.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html dir="rtl">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        .footer {
+            margin-left: auto;
+            margin-right: auto;
+            bottom: 0;
+            width: 80%;
+            background-color: steelblue;
+            color: white;
+            text-align: center;
+        }
+
+        .tableDesign {
+            width: 80%;
+            border-color: black;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: steelblue;
+            color: white;
+        }
+
+        a:link, a:visited {
+            font-size: 20px;
+            background-color: #f44336;
+            color: white;
+            padding: 8px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        a:hover, a:active {
+            background-color: red;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background: #DDD;
+            background-color: aliceblue;
+            font-size: 16px;
+            color: #222;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+        <!--איזור כותרת עליונה-->
+        <table class="tableDesign" border="0">
+            <tr>
+                <td rowspan="2">
+                    <!--איזור הגדרת תפריט אישי לגולש-->
+                    <h3><% Response.Write("שלום " + Session["user"]); %></h3>
+                    <table style="width: 70px; height: 70px; text-align: center">
+                        <tr>
+                            <td>
+                                <% if (Session["user"].ToString() == "אורח") // newbie
+                                    { %>
+                                <a href="signup.aspx">רישום</a>
+                                <a href="Login.aspx">התחברות</a>
+                                <%}
+                                    else // user logged in
+                                    { %>
+                                <a href="Logout.aspx">התנתקות</a>&nbsp&nbsp
+                                <!-- logout option -->
+                                <a href="UpdateUser.aspx">עדכון פרטים</a>&nbsp&nbsp
+                                <!-- update user details option -->
+                                <%}%>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td style="align-content: center; border: 0px">
+
+                    <img src="images/gym.jpg" alt="התעמלות"
+                        style="width: 300px; height: 200px; border-style: outset; float: right" />
+                </td>
+                <td style="align-content: center; border: 0px">
+                    <h1 style="flex-direction: column; justify-content: center; text-align: center; color: lightskyblue">&quot;אדם פסימי רואה את הקושי בכל הזדמנות, אדם אופטימי רואה הזדמנות בכל קושי.&quot;</h1>
+                </td>
+                <td style="align-content: center; border: 0px">
+                    <img src="images/running.jpg" alt="ריצה"
+                        style="width: 250px; height: 200px; border-style: outset; float: left" />
+
+                </td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        <table class="tableDesign" border="0">
+            <tr>
+                <td colspan="3" style="height: 39px; vertical-align: top">
+                    <!--איזור קישורים של תפריט ראשי-->
+                    <a href="Default.aspx">דף הבית</a>&nbsp&nbsp
+                        <% if (Session["user"].ToString() != "אורח")
+                            { %>
+                    <a href="MembersOnly.aspx">לחברים</a>&nbsp&nbsp
+                        <% }
+                            if ((bool)Session["admin"])
+                            { %>
+                    <a href="Manager.aspx">ניהול</a>&nbsp&nbsp
+                        <% } %>
+                </td>
+            </tr>
+        </table>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <!---איזור כותרת תחתונה-->
+        <div class="footer">
+            <p><%Response.Write("סך המשתמשים שנכנסו לאתר: " + Application["counter"]);%></p>
+        </div>
+    </div>
+
+</body>
+</html>

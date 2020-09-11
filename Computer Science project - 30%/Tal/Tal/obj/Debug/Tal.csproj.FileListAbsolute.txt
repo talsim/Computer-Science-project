@@ -1,0 +1,559 @@
+C:\Users\User\source\repos\Tal\Tal\bin\Tal.dll.config
+C:\Users\User\source\repos\Tal\Tal\bin\Tal.dll
+C:\Users\User\source\repos\Tal\Tal\bin\Tal.pdb
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\csc.exe
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\csi.exe
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\Tal\Tal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\Tal\Tal\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\Tal\Tal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\source\repos\Tal\Tal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\source\repos\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\source\repos\Tal\Tal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\source\repos\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\Tal\Tal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\source\repos\Tal\Tal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\source\repos\Tal\Tal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\Tal\Tal\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Tal\Tal\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\Tal\Tal\bin\WebGrease.dll
+C:\Users\User\source\repos\Tal\Tal\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\Tal\Tal\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Tal\Tal\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\source\repos\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\Tal\Tal\obj\Debug\Tal.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Tal\Tal\obj\Debug\Tal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tal\Tal\obj\Debug\Tal.csproj.CopyComplete
+C:\Users\User\source\repos\Tal\Tal\obj\Debug\Tal.dll
+C:\Users\User\source\repos\Tal\Tal\obj\Debug\Tal.pdb
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Tal.dll.config
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Tal.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Tal.pdb
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\csc.exe
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\csc.exe.config
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\csc.rsp
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\csi.exe
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\csi.exe.config
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\csi.rsp
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.AppContext.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Console.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\vbc.exe
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\vbc.exe.config
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\vbc.rsp
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Antlr3.Runtime.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Newtonsoft.Json.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\System.Web.Optimization.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\WebGrease.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\System.Web.Optimization.xml
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Newtonsoft.Json.xml
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Antlr3.Runtime.pdb
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\obj\Debug\Tal.csprojAssemblyReference.cache
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\obj\Debug\Tal.csproj.CopyComplete
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\obj\Debug\Tal.dll
+C:\Users\Tal\Desktop\Tal-20200307T163618Z-001\Tal\Tal\obj\Debug\Tal.pdb
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Tal.dll.config
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Tal.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Tal.pdb
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\csc.exe
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\csc.exe.config
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\csc.rsp
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\csi.exe
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\csi.exe.config
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\csi.rsp
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.AppContext.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Console.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\vbc.exe
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\vbc.exe.config
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\vbc.rsp
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Antlr3.Runtime.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Newtonsoft.Json.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.Optimization.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\WebGrease.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.Optimization.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Newtonsoft.Json.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Antlr3.Runtime.pdb
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\obj\Debug\Tal.csprojAssemblyReference.cache
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\obj\Debug\Tal.csproj.CopyComplete
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\obj\Debug\Tal.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\obj\Debug\Tal.pdb
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.Helpers.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.Mvc.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.Razor.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.WebPages.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.Helpers.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.Mvc.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.Razor.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.WebPages.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tal\Desktop\פרויקט במחשבים\Tal\Tal\bin\System.Web.WebPages.Razor.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Tal.dll.config
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Tal.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Tal.pdb
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\csc.exe
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Collections.Immutable.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Antlr3.Runtime.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Microsoft.Web.Infrastructure.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Newtonsoft.Json.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.Helpers.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.Mvc.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.Optimization.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.Razor.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.WebPages.Deployment.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.WebPages.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.WebPages.Razor.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\WebGrease.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.Helpers.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.Mvc.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.Razor.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.WebPages.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.WebPages.Deployment.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.WebPages.Razor.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\System.Web.Optimization.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Newtonsoft.Json.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Antlr3.Runtime.pdb
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\obj\Debug\Tal.csprojAssemblyReference.cache
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\obj\Debug\Tal.csproj.CoreCompileInputs.cache
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\obj\Debug\Tal.csproj.CopyComplete
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\obj\Debug\Tal.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\obj\Debug\Tal.pdb
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\csc.exe.config
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\csc.rsp
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\csi.exe
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\csi.exe.config
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\csi.rsp
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.AppContext.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Console.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.IO.Compression.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.IO.FileSystem.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.IO.Pipes.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Security.AccessControl.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Security.Claims.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.ValueTuple.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Xml.XPath.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\vbc.exe
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\vbc.exe.config
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\vbc.rsp
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\VBCSCompiler.exe
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Scripts\signup\utils.js
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Tal.dll.config
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Tal.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Tal.pdb
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\csc.exe
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\csc.exe.config
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\csc.rsp
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\csi.exe
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\csi.exe.config
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\csi.rsp
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.AppContext.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Console.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\vbc.exe
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\vbc.exe.config
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\vbc.rsp
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Antlr3.Runtime.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Newtonsoft.Json.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.Helpers.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.Mvc.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.Optimization.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.Razor.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.WebPages.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\WebGrease.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.Helpers.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.Mvc.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.Razor.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.WebPages.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\System.Web.Optimization.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Newtonsoft.Json.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Antlr3.Runtime.pdb
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\obj\Debug\Tal.csproj.CoreCompileInputs.cache
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\obj\Debug\Tal.csproj.CopyComplete
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\obj\Debug\Tal.dll
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\obj\Debug\Tal.pdb
+C:\Users\Tal\Desktop\Computer Science project\Tal\Tal\obj\Debug\Tal.csprojAssemblyReference.cache
+C:\Tal - Computer Science Project\Tal-20200522T052452Z-001\Tal\Tal\bin\Scripts\signup\utils.js
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\obj\Debug\Tal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\obj\Debug\Tal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\obj\Debug\Tal.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\obj\Debug\Tal.pdb
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Scripts\signup\utils.js
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Tal.dll.config
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Tal.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Tal.pdb
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\WebGrease.dll
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Tal-20200612T055231Z-001\Tal\Tal\obj\Debug\Tal.csproj.CopyComplete
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Scripts\signup\utils.js
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Tal.dll.config
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Tal.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Tal.pdb
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\csc.exe
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\csc.exe.config
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\csc.rsp
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\csi.exe
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\csi.exe.config
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\csi.rsp
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.Managed.Core.targets
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.AppContext.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Collections.Immutable.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Console.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.IO.Compression.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.IO.FileSystem.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.IO.Pipes.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Reflection.Metadata.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Security.AccessControl.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Security.Claims.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Security.Principal.Windows.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.ValueTuple.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Xml.XmlDocument.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Xml.XPath.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\vbc.exe
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\vbc.exe.config
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\vbc.rsp
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\VBCSCompiler.exe
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\roslyn\VBCSCompiler.exe.config
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Antlr3.Runtime.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\AspNet.ScriptManager.bootstrap.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\AspNet.ScriptManager.jQuery.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Microsoft.ScriptManager.WebForms.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Microsoft.Web.Infrastructure.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Newtonsoft.Json.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.Helpers.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.Mvc.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.Optimization.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.Razor.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.WebPages.Deployment.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.WebPages.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.WebPages.Razor.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\WebGrease.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.Helpers.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.Mvc.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.Razor.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.WebPages.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.WebPages.Deployment.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.WebPages.Razor.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\System.Web.Optimization.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Newtonsoft.Json.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Antlr3.Runtime.pdb
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\obj\Debug\Tal.csprojAssemblyReference.cache
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\obj\Debug\Tal.csproj.CoreCompileInputs.cache
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\obj\Debug\Tal.csproj.CopyComplete
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\obj\Debug\Tal.dll
+E:\School\כיתה י\מדעי המחשב\Computer Science project - 30%\Tal\Tal\obj\Debug\Tal.pdb
